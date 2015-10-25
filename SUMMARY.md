@@ -1,5 +1,6 @@
 # Summary
-- [教学反转](0MOOC/README.md)
+
+- [教学反转](0MOOC/README.md)1024上海线下活动记录及总结。
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
